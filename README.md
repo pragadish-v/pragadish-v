@@ -30,28 +30,6 @@
 
 <br/>
 
-```python
-class Pragadish:
-    def __init__(self):
-        self.name = "Pragadish V"
-        self.role = "Full-Stack Developer (MERN) | Data Science Enthusiast"
-        self.education = "B.Tech CSE @ Easwari Engineering College"
-        self.location = "Chennai, India"
-        self.stack = {
-            "languages": ["Python", "Java", "C++", "JavaScript"],
-            "web_dev":   ["React", "Node.js", "Express", "MongoDB"],
-            "data_sci":  ["Pandas", "NumPy", "Scikit-learn", "Jupyter"],
-        }
-        self.currently_learning = ["Data Structures & Algorithms", "Machine Learning"]
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something! 🚀")
-
-
-pragadish = Pragadish()
-pragadish.say_hi()
-```
-
 <br/>
 
 ## 🛠️ Tech Stack
