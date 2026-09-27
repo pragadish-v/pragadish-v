@@ -51,7 +51,7 @@
 - 🥇 FedEx Hackathon (IIT Madras)
 - 🤖 AI Wars
 - 🎯 Convolve 4.0
-- 💻 110+ LeetCode Problems
+- 💻 300+ LeetCode Problems
 - 🚀 CodeAlpha Full Stack Internship
 
 ---
