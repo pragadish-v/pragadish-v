@@ -64,36 +64,6 @@
 </p>
 
 ---
-
-## 📚 Currently Learning
-
-```text
-███████████████████░░░░░ 80%  Data Structures
-
-████████████████░░░░░░░░ 70%  React
-
-███████████████░░░░░░░░░ 65%  Backend Development
-
-█████████████░░░░░░░░░░░ 60%  Machine Learning
-
-████████████░░░░░░░░░░░░ 55%  System Design
-```
-
----
-
-## 🌟 Fun Facts
-
-```javascript
-const pragadish = {
-    code: ["JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "DSA"],
-    currentlyLearning: ["Machine Learning", "System Design"],
-    hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
-    motto: "Build. Learn. Repeat. 🚀"
-};
-```
-
----
  🌟 Experience
 
 <div align="center">
@@ -101,7 +71,7 @@ const pragadish = {
 | Organization | Role | Duration |
 |--------------|------|----------|
 | 🚀 CodeAlpha | Full Stack Development Intern | 2026 |
-| 🎓 Easwari Engineering College | B.Tech CSE | 2023 - 2027 |
+| 🎓 Easwari Engineering College | B.E CSE | 2025 - 2029 |
 
 </div>
 
@@ -119,56 +89,9 @@ const pragadish = {
 
 🎖️ React Fundamentals
 
-🎖️ Data Science (In Progress)
+🎖️ Data Science - IITM
 
 </div>
-
----
-
-# 🛣️ Developer Journey
-
-```text
-2023
-│
-├── Started B.Tech CSE
-│
-├── Learned C & Java
-│
-2024
-│
-├── HTML • CSS • JavaScript
-├── Built Frontend Projects
-│
-2025
-│
-├── MERN Stack
-├── MongoDB
-├── REST APIs
-│
-2026
-│
-├── CodeAlpha Internship
-├── Hackathons
-├── Data Science
-├── Machine Learning
-└── Preparing for SDE Roles 🚀
-```
-
----
-
-# 📊 Weekly Development Breakdown
-
-<!-- Replace with WakaTime later if you use it -->
-
-```text
-JavaScript   ████████████████░░░░░   42%
-
-Python       ██████████████░░░░░░░   35%
-
-React        ██████████░░░░░░░░░░░   22%
-
-Other        ██░░░░░░░░░░░░░░░░░░░    6%
-```
 
 ---
 
@@ -196,7 +119,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/4n7GoUVJKo/">
 
 <img src="https://img.shields.io/badge/LeetCode-110%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 
@@ -214,7 +137,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░    
 
 # 🎯 2026 Goals
 
-- ✅ Complete 300+ LeetCode Problems
+- ✅ Complete 500+ LeetCode Problems
 
 - ✅ Master MERN Stack
 
