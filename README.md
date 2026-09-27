@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=700&lines=Full-Stack+MERN+Developer;Data+Science+Enthusiast;B.Tech+CSE+Student;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=700&lines=Full-Stack+MERN+Developer;Data+Science+Enthusiast;B.E+CSE+Student"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE @ Easwari Engineering College
+- 🎓 B.E CSE @ Easwari Engineering College
 - 📍 Chennai, India
 - 💻 MERN Stack Developer
 - 📊 Learning Data Science & Machine Learning
